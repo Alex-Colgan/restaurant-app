@@ -1,4 +1,4 @@
-import NavBar from "./nav";
+//import NavBar from "./nav";
 function Contact() {
     return (
         <div>
