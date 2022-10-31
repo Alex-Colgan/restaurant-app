@@ -1,6 +1,8 @@
+import NavBar from "./nav";
 function Menu () {
     return (
         <div>
+            <NavBar />
             <h1>Our Menu</h1>
             <div className="Brunch">
                 <h3>Brunch</h3>

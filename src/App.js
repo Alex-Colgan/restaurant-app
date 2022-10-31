@@ -7,21 +7,6 @@ import Contact from "./pages/contact";
 function App() {
   return (
     <div className="App">
-      <h2>Hi.</h2>
-      <nav>
-        <ul>
-          <li>
-            <a href="/">Home</a>
-          </li>
-          <li>
-            <a href="menu">Menu</a>
-          </li>
-          <li>
-            <a href="contact">Contact</a>
-          </li>
-
-        </ul>
-      </nav>
       <BrowserRouter>
       <Routes>
           <Route index element={<Home />} />
