@@ -1,0 +1,66 @@
+body {
+    background-color: white;
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+.thankYouText {
+    font-size: 20px;
+    font-weight: bolder;
+    color: black;
+    visibility: hidden;
+}
+
+.container {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    flex-direction: row;
+
+}
+
+.mid {
+    height: 80%;
+    width: 35%;
+    display: flex;
+    flex: auto;
+    
+}
+
+.mid img {
+    height: 70%;
+    width: 100%;
+}
+
+.left{
+    
+    flex: auto;
+    flex-direction: column;
+    width: 30%;
+    height: 100%;
+}
+
+.right{
+    
+    flex: auto;
+    flex-direction: column;
+    width: 35%;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+
+}
+
+input {
+    align-items: flex-end;
+    margin: 0.5%;
+    padding: 0.5%;
+}
+
+label {
+    
+    padding: 0.5%;
+
+}

@@ -7,7 +7,6 @@ import Contact from "./pages/contact";
 function App() {
   return (
     <div className="App">
-      <h2>Hi.</h2>
       <nav>
         <ul>
           <li>
