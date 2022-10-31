@@ -2,7 +2,7 @@
 function Contact() {
     return (
         <div>
-            <NavBar />
+           {/**<NavBar/>*/}
             <h1>CONTACT US</h1>
             <h3>Opening Times</h3>
             <ul>
