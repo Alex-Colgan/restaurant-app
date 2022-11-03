@@ -3,7 +3,7 @@ function Home() {
   return (
     <div>
       <NavBar />
-      <h2 className="HomeTitle">Restaurant</h2>
+      <h2 className="HomeTitle">Dorsia</h2>
       <p className="HomeText">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
